@@ -6,3 +6,5 @@ x = 2 + 2
 y = 5 - x
 print(y)
 
+print(x + 2*x)
+
